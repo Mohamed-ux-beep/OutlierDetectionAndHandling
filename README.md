@@ -1,6 +1,3 @@
-# OutlierDetectionAndHandling
-
-
 # Ausreißen: Identifizierung und Handlung
 
 ## Projektbeschreibung
